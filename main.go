@@ -1,1 +1,1 @@
-fukc main()
+func main()
